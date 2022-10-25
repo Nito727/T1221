@@ -1,0 +1,3 @@
+Sub AutoOpen()  
+Shell "calc.exe", vbNormalFocus  
+End Sub  
