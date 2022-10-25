@@ -1,3 +1,0 @@
-Sub AutoOpen()  
-Shell "explorer.exe", vbNormalFocus  
-End Sub  
